@@ -1,0 +1,1775 @@
+{
+    "type":  "FeatureCollection",
+    "features":  [
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P001",
+                                            "survey_no":  "101/1A",
+                                            "owner_id":  "OWN001",
+                                            "owner_name":  "Arun Kumar",
+                                            "area_acres":  2.41,
+                                            "land_use":  "Residential",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.588344,
+                                                                      12.96900
+                                                                  ],
+                                                                  [
+                                                                      77.588251593107990931,
+                                                                      12.969174639033987188
+                                                                  ],
+                                                                  [
+                                                                      77.5879573523869867974,
+                                                                      12.96925360308331891
+                                                                  ],
+                                                                  [
+                                                                      77.587649132799252556,
+                                                                      12.969165248375107167
+                                                                  ],
+                                                                  [
+                                                                      77.587631025361871426,
+                                                                      12.9689593373850629938
+                                                                  ],
+                                                                  [
+                                                                      77.587752093645935535,
+                                                                      12.968801683960342308
+                                                                  ],
+                                                                  [
+                                                                      77.5880906494971965428,
+                                                                      12.968733454778800038
+                                                                  ],
+                                                                  [
+                                                                      77.588306191210130329,
+                                                                      12.968870919638115502
+                                                                  ],
+                                                                  [
+                                                                      77.588344,
+                                                                      12.96900
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P002",
+                                            "survey_no":  "101/1B",
+                                            "owner_id":  "OWN002",
+                                            "owner_name":  "Meera Nair",
+                                            "area_acres":  1.82,
+                                            "land_use":  "Agricultural",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.589685852121391,
+                                                                      12.969111503225269
+                                                                  ],
+                                                                  [
+                                                                      77.5895344958648,
+                                                                      12.969309772148423
+                                                                  ],
+                                                                  [
+                                                                      77.589195845810565,
+                                                                      12.969310438520322
+                                                                  ],
+                                                                  [
+                                                                      77.5889265100808,
+                                                                      12.969209020833333
+                                                                  ],
+                                                                  [
+                                                                      77.588857074221664,
+                                                                      12.968998257744222
+                                                                  ],
+                                                                  [
+                                                                      77.589036541501983,
+                                                                      12.968823849838307
+                                                                  ],
+                                                                  [
+                                                                      77.58941170859687,
+                                                                      12.968838183624291
+                                                                  ],
+                                                                  [
+                                                                      77.589668879797472,
+                                                                      12.968954736454613
+                                                                  ],
+                                                                  [
+                                                                      77.589685852121391,
+                                                                      12.969111503225269
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P003",
+                                            "survey_no":  "102/2A",
+                                            "owner_id":  "OWN003",
+                                            "owner_name":  "Ravi Shetty",
+                                            "area_acres":  3.15,
+                                            "land_use":  "Commercial",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.591025159771178,
+                                                                      12.969074028100053
+                                                                  ],
+                                                                  [
+                                                                      77.590749760405672,
+                                                                      12.969227800478958
+                                                                  ],
+                                                                  [
+                                                                      77.590408895500673,
+                                                                      12.969264993319062
+                                                                  ],
+                                                                  [
+                                                                      77.59011943103539,
+                                                                      12.969119368359753
+                                                                  ],
+                                                                  [
+                                                                      77.590089128219617,
+                                                                      12.968866183644428
+                                                                  ],
+                                                                  [
+                                                                      77.59038285263405,
+                                                                      12.968746034362775
+                                                                  ],
+                                                                  [
+                                                                      77.590768094783371,
+                                                                      12.968727665403971
+                                                                  ],
+                                                                  [
+                                                                      77.59103846015941,
+                                                                      12.968888843453419
+                                                                  ],
+                                                                  [
+                                                                      77.591025159771178,
+                                                                      12.969074028100053
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P004",
+                                            "survey_no":  "102/2B",
+                                            "owner_id":  "OWN004",
+                                            "owner_name":  "Lakshmi Devi",
+                                            "area_acres":  1.34,
+                                            "land_use":  "Mixed-use",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.592155453979217,
+                                                                      12.969157049109151
+                                                                  ],
+                                                                  [
+                                                                      77.591920117265644,
+                                                                      12.969299391400227
+                                                                  ],
+                                                                  [
+                                                                      77.591516149493572,
+                                                                      12.969307206663668
+                                                                  ],
+                                                                  [
+                                                                      77.591216828189829,
+                                                                      12.969155685423951
+                                                                  ],
+                                                                  [
+                                                                      77.59134454558064,
+                                                                      12.968959395250792
+                                                                  ],
+                                                                  [
+                                                                      77.591601367971037,
+                                                                      12.968839329969748
+                                                                  ],
+                                                                  [
+                                                                      77.592049796556807,
+                                                                      12.968851462270235
+                                                                  ],
+                                                                  [
+                                                                      77.5922043325217,
+                                                                      12.969028073798288
+                                                                  ],
+                                                                  [
+                                                                      77.592155453979217,
+                                                                      12.969157049109151
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P005",
+                                            "survey_no":  "103/1A",
+                                            "owner_id":  "OWN005",
+                                            "owner_name":  "Sanjay Rao",
+                                            "area_acres":  2.76,
+                                            "land_use":  "Residential",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.5933619882949,
+                                                                      12.969121358398979
+                                                                  ],
+                                                                  [
+                                                                      77.593128704133392,
+                                                                      12.969272167951219
+                                                                  ],
+                                                                  [
+                                                                      77.5928376376412,
+                                                                      12.969196067385909
+                                                                  ],
+                                                                  [
+                                                                      77.592659287642817,
+                                                                      12.969040366610082
+                                                                  ],
+                                                                  [
+                                                                      77.59270954229352,
+                                                                      12.968827871312524
+                                                                  ],
+                                                                  [
+                                                                      77.592954520925431,
+                                                                      12.968705706616474
+                                                                  ],
+                                                                  [
+                                                                      77.593269116990783,
+                                                                      12.968804084133671
+                                                                  ],
+                                                                  [
+                                                                      77.593429134787328,
+                                                                      12.968971158854842
+                                                                  ],
+                                                                  [
+                                                                      77.5933619882949,
+                                                                      12.969121358398979
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P006",
+                                            "survey_no":  "103/1B",
+                                            "owner_id":  "OWN006",
+                                            "owner_name":  "Farah Khan",
+                                            "area_acres":  1.95,
+                                            "land_use":  "Agricultural",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.5886837,
+                                                                      12.96988
+                                                                  ],
+                                                                  [
+                                                                      77.588490321759838849,
+                                                                      12.970071731364973168
+                                                                  ],
+                                                                  [
+                                                                      77.5881972583113698566,
+                                                                      12.970160455174493853
+                                                                  ],
+                                                                  [
+                                                                      77.5878862244349368,
+                                                                      12.970063854489572951
+                                                                  ],
+                                                                  [
+                                                                      77.587770197461425526,
+                                                                      12.9698228697495475799
+                                                                  ],
+                                                                  [
+                                                                      77.587991826859296227,
+                                                                      12.969660933010497331
+                                                                  ],
+                                                                  [
+                                                                      77.5883313460013607822,
+                                                                      12.969583621276977657
+                                                                  ],
+                                                                  [
+                                                                      77.588630683956066563,
+                                                                      12.969698262306372007
+                                                                  ],
+                                                                  [
+                                                                      77.5886837,
+                                                                      12.96988
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P007",
+                                            "survey_no":  "104/3A",
+                                            "owner_id":  "OWN007",
+                                            "owner_name":  "Vijay Patel",
+                                            "area_acres":  2.28,
+                                            "land_use":  "Residential",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.589831187154488,
+                                                                      12.969986201908833
+                                                                  ],
+                                                                  [
+                                                                      77.589683406069568,
+                                                                      12.970152500730409
+                                                                  ],
+                                                                  [
+                                                                      77.58932215846454,
+                                                                      12.97020846436652
+                                                                  ],
+                                                                  [
+                                                                      77.5889829432528,
+                                                                      12.970097291666667
+                                                                  ],
+                                                                  [
+                                                                      77.589009002769586,
+                                                                      12.969891536292478
+                                                                  ],
+                                                                  [
+                                                                      77.589186318318824,
+                                                                      12.969744279562658
+                                                                  ],
+                                                                  [
+                                                                      77.589596788565515,
+                                                                      12.96970234618815
+                                                                  ],
+                                                                  [
+                                                                      77.589816667131274,
+                                                                      12.969855203859645
+                                                                  ],
+                                                                  [
+                                                                      77.589831187154488,
+                                                                      12.969986201908833
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P008",
+                                            "survey_no":  "104/3B",
+                                            "owner_id":  "OWN008",
+                                            "owner_name":  "Nisha Iyer",
+                                            "area_acres":  2.1,
+                                            "land_use":  "Agricultural",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Conflict",
+                                            "conflict_count":  1
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.591170599381257,
+                                                                      12.969942536810013
+                                                                  ],
+                                                                  [
+                                                                      77.590951824801976,
+                                                                      12.970127666799797
+                                                                  ],
+                                                                  [
+                                                                      77.590561460651742,
+                                                                      12.970102237304816
+                                                                  ],
+                                                                  [
+                                                                      77.590273811104311,
+                                                                      12.969980824911614
+                                                                  ],
+                                                                  [
+                                                                      77.590240970536271,
+                                                                      12.96976628321354
+                                                                  ],
+                                                                  [
+                                                                      77.59048679648815,
+                                                                      12.969607002165741
+                                                                  ],
+                                                                  [
+                                                                      77.590915881009082,
+                                                                      12.969650133422659
+                                                                  ],
+                                                                  [
+                                                                      77.591186126589392,
+                                                                      12.96978563094212
+                                                                  ],
+                                                                  [
+                                                                      77.591170599381257,
+                                                                      12.969942536810013
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P009",
+                                            "survey_no":  "105/1A",
+                                            "owner_id":  "OWN009",
+                                            "owner_name":  "Kiran Das",
+                                            "area_acres":  1.67,
+                                            "land_use":  "Commercial",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.592370900814,
+                                                                      12.970069660592561
+                                                                  ],
+                                                                  [
+                                                                      77.592113278574644,
+                                                                      12.970200863750037
+                                                                  ],
+                                                                  [
+                                                                      77.5918192995721,
+                                                                      12.970211263839822
+                                                                  ],
+                                                                  [
+                                                                      77.591598446069185,
+                                                                      12.970044207212203
+                                                                  ],
+                                                                  [
+                                                                      77.59161398927742,
+                                                                      12.969790552473356
+                                                                  ],
+                                                                  [
+                                                                      77.591881627554784,
+                                                                      12.969694147277842
+                                                                  ],
+                                                                  [
+                                                                      77.592210034170137,
+                                                                      12.969705882817912
+                                                                  ],
+                                                                  [
+                                                                      77.592412227028063,
+                                                                      12.969886890907338
+                                                                  ],
+                                                                  [
+                                                                      77.592370900814,
+                                                                      12.970069660592561
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P010",
+                                            "survey_no":  "105/1B",
+                                            "owner_id":  "OWN010",
+                                            "owner_name":  "Priya Menon",
+                                            "area_acres":  2.54,
+                                            "land_use":  "Mixed-use",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.593510310694484,
+                                                                      12.969980936386
+                                                                  ],
+                                                                  [
+                                                                      77.5932789218631,
+                                                                      12.970108019495674
+                                                                  ],
+                                                                  [
+                                                                      77.592931886108715,
+                                                                      12.970091404581002
+                                                                  ],
+                                                                  [
+                                                                      77.592708107203066,
+                                                                      12.969922954296859
+                                                                  ],
+                                                                  [
+                                                                      77.592858925018433,
+                                                                      12.969735832604528
+                                                                  ],
+                                                                  [
+                                                                      77.593103959463,
+                                                                      12.969632156715491
+                                                                  ],
+                                                                  [
+                                                                      77.593484777745118,
+                                                                      12.969671252889249
+                                                                  ],
+                                                                  [
+                                                                      77.593579449719257,
+                                                                      12.969855871346395
+                                                                  ],
+                                                                  [
+                                                                      77.593510310694484,
+                                                                      12.969980936386
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P011",
+                                            "survey_no":  "106/2A",
+                                            "owner_id":  "OWN011",
+                                            "owner_name":  "Gopal Reddy",
+                                            "area_acres":  3.02,
+                                            "land_use":  "Agricultural",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.5884718,
+                                                                      12.97076
+                                                                  ],
+                                                                  [
+                                                                      77.588350781212688437,
+                                                                      12.970968452123546409
+                                                                  ],
+                                                                  [
+                                                                      77.5879877495951472145,
+                                                                      12.970995204428254597
+                                                                  ],
+                                                                  [
+                                                                      77.58767778842947731,
+                                                                      12.970915293351599193
+                                                                  ],
+                                                                  [
+                                                                      77.587559426028685667,
+                                                                      12.9707114508636606207
+                                                                  ],
+                                                                  [
+                                                                      77.587715561162502009,
+                                                                      12.970524516119797191
+                                                                  ],
+                                                                  [
+                                                                      77.5881208782000564423,
+                                                                      12.970509838751112329
+                                                                  ],
+                                                                  [
+                                                                      77.588420946484631206,
+                                                                      12.970605709358050696
+                                                                  ],
+                                                                  [
+                                                                      77.5884718,
+                                                                      12.97076
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P012",
+                                            "survey_no":  "106/2B",
+                                            "owner_id":  "OWN012",
+                                            "owner_name":  "Anita Shah",
+                                            "area_acres":  1.48,
+                                            "land_use":  "Residential",
+                                            "tax_status":  "Due",
+                                            "registration_status":  "Pending",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Pending",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.589821260522712,
+                                                                      12.970877292019082
+                                                                  ],
+                                                                  [
+                                                                      77.5895591042463,
+                                                                      12.971051341227428
+                                                                  ],
+                                                                  [
+                                                                      77.5892032157345,
+                                                                      12.97111477235827
+                                                                  ],
+                                                                  [
+                                                                      77.588864639219224,
+                                                                      12.97099275
+                                                                  ],
+                                                                  [
+                                                                      77.588780382487727,
+                                                                      12.970743809709147
+                                                                  ],
+                                                                  [
+                                                                      77.58906897934888,
+                                                                      12.970601707490406
+                                                                  ],
+                                                                  [
+                                                                      77.589476056037185,
+                                                                      12.970553507871594
+                                                                  ],
+                                                                  [
+                                                                      77.589797454819276,
+                                                                      12.970692453087585
+                                                                  ],
+                                                                  [
+                                                                      77.589821260522712,
+                                                                      12.970877292019082
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P013",
+                                            "survey_no":  "107/1A",
+                                            "owner_id":  "OWN013",
+                                            "owner_name":  "Dev Malhotra",
+                                            "area_acres":  2.2,
+                                            "land_use":  "Commercial",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.590833781729827,
+                                                                      12.970812013207555
+                                                                  ],
+                                                                  [
+                                                                      77.5906765213076,
+                                                                      12.970967492684322
+                                                                  ],
+                                                                  [
+                                                                      77.590360455781521,
+                                                                      12.9709996216183
+                                                                  ],
+                                                                  [
+                                                                      77.590095591534379,
+                                                                      12.970867288255699
+                                                                  ],
+                                                                  [
+                                                                      77.590157724968535,
+                                                                      12.970664755836079
+                                                                  ],
+                                                                  [
+                                                                      77.59033622071172,
+                                                                      12.970530091059826
+                                                                  ],
+                                                                  [
+                                                                      77.590691129819987,
+                                                                      12.970515078622384
+                                                                  ],
+                                                                  [
+                                                                      77.590847059807942,
+                                                                      12.970681050350249
+                                                                  ],
+                                                                  [
+                                                                      77.590833781729827,
+                                                                      12.970812013207555
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P014",
+                                            "survey_no":  "124/3B",
+                                            "owner_id":  "OWN001",
+                                            "owner_name":  "Arun Kumar",
+                                            "area_acres":  2.41,
+                                            "land_use":  "Residential",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Conflict",
+                                            "conflict_count":  1
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.592161741036378,
+                                                                      12.970932638114958
+                                                                  ],
+                                                                  [
+                                                                      77.5919390078592,
+                                                                      12.971101869309633
+                                                                  ],
+                                                                  [
+                                                                      77.591610162154026,
+                                                                      12.971050723042971
+                                                                  ],
+                                                                  [
+                                                                      77.591387637007244,
+                                                                      12.970911125922692
+                                                                  ],
+                                                                  [
+                                                                      77.591400917761248,
+                                                                      12.970696003938224
+                                                                  ],
+                                                                  [
+                                                                      77.591641795895157,
+                                                                      12.970554224262093
+                                                                  ],
+                                                                  [
+                                                                      77.5920003337216,
+                                                                      12.970625510002249
+                                                                  ],
+                                                                  [
+                                                                      77.592205263814762,
+                                                                      12.970777932254924
+                                                                  ],
+                                                                  [
+                                                                      77.592161741036378,
+                                                                      12.970932638114958
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P015",
+                                            "survey_no":  "108/2A",
+                                            "owner_id":  "OWN014",
+                                            "owner_name":  "Suresh Babu",
+                                            "area_acres":  1.76,
+                                            "land_use":  "Mixed-use",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.593483285076,
+                                                                      12.970903658298212
+                                                                  ],
+                                                                  [
+                                                                      77.5931577848302,
+                                                                      12.971010336297379
+                                                                  ],
+                                                                  [
+                                                                      77.592812948575244,
+                                                                      12.970993788595461
+                                                                  ],
+                                                                  [
+                                                                      77.592587275898708,
+                                                                      12.97080779072907
+                                                                  ],
+                                                                  [
+                                                                      77.592653832990564,
+                                                                      12.970557447374619
+                                                                  ],
+                                                                  [
+                                                                      77.592984370430344,
+                                                                      12.970486223444663
+                                                                  ],
+                                                                  [
+                                                                      77.593365131278318,
+                                                                      12.970527888533736
+                                                                  ],
+                                                                  [
+                                                                      77.593566377398389,
+                                                                      12.970726028249437
+                                                                  ],
+                                                                  [
+                                                                      77.593483285076,
+                                                                      12.970903658298212
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P016",
+                                            "survey_no":  "108/2B",
+                                            "owner_id":  "OWN015",
+                                            "owner_name":  "Kavya Rao",
+                                            "area_acres":  2.88,
+                                            "land_use":  "Agricultural",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.5886143,
+                                                                      12.97164
+                                                                  ],
+                                                                  [
+                                                                      77.58849763629883855,
+                                                                      12.971814639033987188
+                                                                  ],
+                                                                  [
+                                                                      77.5881261573885708318,
+                                                                      12.97189360308331891
+                                                                  ],
+                                                                  [
+                                                                      77.587737030159056352,
+                                                                      12.971805248375107167
+                                                                  ],
+                                                                  [
+                                                                      77.587714169519362676,
+                                                                      12.9715993373850629938
+                                                                  ],
+                                                                  [
+                                                                      77.587867018227993613,
+                                                                      12.971441683960342308
+                                                                  ],
+                                                                  [
+                                                                      77.588294444990210635,
+                                                                      12.971373454778800038
+                                                                  ],
+                                                                  [
+                                                                      77.58856656640278954,
+                                                                      12.971510919638115502
+                                                                  ],
+                                                                  [
+                                                                      77.5886143,
+                                                                      12.97164
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P017",
+                                            "survey_no":  "109/1A",
+                                            "owner_id":  "OWN016",
+                                            "owner_name":  "Imran Ali",
+                                            "area_acres":  1.92,
+                                            "land_use":  "Residential",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.589833197353,
+                                                                      12.971751503225269
+                                                                  ],
+                                                                  [
+                                                                      77.589694019186012,
+                                                                      12.971949772148422
+                                                                  ],
+                                                                  [
+                                                                      77.5893826168373,
+                                                                      12.971950438520322
+                                                                  ],
+                                                                  [
+                                                                      77.589134951798428,
+                                                                      12.971849020833332
+                                                                  ],
+                                                                  [
+                                                                      77.589071102732561,
+                                                                      12.971638257744221
+                                                                  ],
+                                                                  [
+                                                                      77.58923613011676,
+                                                                      12.971463849838306
+                                                                  ],
+                                                                  [
+                                                                      77.589581111353453,
+                                                                      12.97147818362429
+                                                                  ],
+                                                                  [
+                                                                      77.589817590618367,
+                                                                      12.971594736454612
+                                                                  ],
+                                                                  [
+                                                                      77.589833197353,
+                                                                      12.971751503225269
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P018",
+                                            "survey_no":  "109/1B",
+                                            "owner_id":  "OWN017",
+                                            "owner_name":  "Renu Singh",
+                                            "area_acres":  2.07,
+                                            "land_use":  "Commercial",
+                                            "tax_status":  "Due",
+                                            "registration_status":  "Pending",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Pending",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.591170520213751,
+                                                                      12.971714028100052
+                                                                  ],
+                                                                  [
+                                                                      77.590915629311638,
+                                                                      12.971867800478957
+                                                                  ],
+                                                                  [
+                                                                      77.590600147963386,
+                                                                      12.971904993319061
+                                                                  ],
+                                                                  [
+                                                                      77.590332239362539,
+                                                                      12.971759368359752
+                                                                  ],
+                                                                  [
+                                                                      77.590304193139431,
+                                                                      12.971506183644427
+                                                                  ],
+                                                                  [
+                                                                      77.590576044459169,
+                                                                      12.971386034362775
+                                                                  ],
+                                                                  [
+                                                                      77.590932598363338,
+                                                                      12.971367665403971
+                                                                  ],
+                                                                  [
+                                                                      77.591182830147545,
+                                                                      12.971528843453418
+                                                                  ],
+                                                                  [
+                                                                      77.591170520213751,
+                                                                      12.971714028100052
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P019",
+                                            "survey_no":  "110/3A",
+                                            "owner_id":  "OWN018",
+                                            "owner_name":  "Harish Kumar",
+                                            "area_acres":  3.4,
+                                            "land_use":  "Commercial",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Conflict",
+                                            "conflict_count":  1
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.592307353208383,
+                                                                      12.971797049109151
+                                                                  ],
+                                                                  [
+                                                                      77.5920883269601,
+                                                                      12.971939391400227
+                                                                  ],
+                                                                  [
+                                                                      77.591712356954417,
+                                                                      12.971947206663668
+                                                                  ],
+                                                                  [
+                                                                      77.591433780691517,
+                                                                      12.971795685423951
+                                                                  ],
+                                                                  [
+                                                                      77.591552646381984,
+                                                                      12.971599395250792
+                                                                  ],
+                                                                  [
+                                                                      77.591791669200759,
+                                                                      12.971479329969748
+                                                                  ],
+                                                                  [
+                                                                      77.592209018577634,
+                                                                      12.971491462270235
+                                                                  ],
+                                                                  [
+                                                                      77.59235284412911,
+                                                                      12.971668073798288
+                                                                  ],
+                                                                  [
+                                                                      77.592307353208383,
+                                                                      12.971797049109151
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P020",
+                                            "survey_no":  "110/3B",
+                                            "owner_id":  "OWN019",
+                                            "owner_name":  "Shalini Bose",
+                                            "area_acres":  1.59,
+                                            "land_use":  "Residential",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.593629135222315,
+                                                                      12.971761358398979
+                                                                  ],
+                                                                  [
+                                                                      77.593334613968409,
+                                                                      12.971912167951219
+                                                                  ],
+                                                                  [
+                                                                      77.592967142522014,
+                                                                      12.971836067385908
+                                                                  ],
+                                                                  [
+                                                                      77.592741975649062,
+                                                                      12.971680366610082
+                                                                  ],
+                                                                  [
+                                                                      77.592805422145574,
+                                                                      12.971467871312523
+                                                                  ],
+                                                                  [
+                                                                      77.593114707668349,
+                                                                      12.971345706616473
+                                                                  ],
+                                                                  [
+                                                                      77.593511885200869,
+                                                                      12.971444084133671
+                                                                  ],
+                                                                  [
+                                                                      77.593713907669,
+                                                                      12.971611158854842
+                                                                  ],
+                                                                  [
+                                                                      77.593629135222315,
+                                                                      12.971761358398979
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P021",
+                                            "survey_no":  "111/1A",
+                                            "owner_id":  "OWN020",
+                                            "owner_name":  "Manoj Jain",
+                                            "area_acres":  2.65,
+                                            "land_use":  "Mixed-use",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.588468,
+                                                                      12.97252
+                                                                  ],
+                                                                  [
+                                                                      77.588290180928587447,
+                                                                      12.972711731364973168
+                                                                  ],
+                                                                  [
+                                                                      77.5880206972978113624,
+                                                                      12.972800455174493853
+                                                                  ],
+                                                                  [
+                                                                      77.587734689135574069,
+                                                                      12.972703854489572951
+                                                                  ],
+                                                                  [
+                                                                      77.587627997665678645,
+                                                                      12.9724628697495475799
+                                                                  ],
+                                                                  [
+                                                                      77.587831794813145956,
+                                                                      12.972300933010497331
+                                                                  ],
+                                                                  [
+                                                                      77.5881439963230903745,
+                                                                      12.972223621276977657
+                                                                  ],
+                                                                  [
+                                                                      77.588419249614773851,
+                                                                      12.972338262306372007
+                                                                  ],
+                                                                  [
+                                                                      77.588468,
+                                                                      12.97252
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P022",
+                                            "survey_no":  "111/1B",
+                                            "owner_id":  "OWN021",
+                                            "owner_name":  "Asha Thomas",
+                                            "area_acres":  1.88,
+                                            "land_use":  "Agricultural",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.589621311515316,
+                                                                      12.972626201908833
+                                                                  ],
+                                                                  [
+                                                                      77.589484535404821,
+                                                                      12.972792500730408
+                                                                  ],
+                                                                  [
+                                                                      77.589150189217179,
+                                                                      12.972848464366519
+                                                                  ],
+                                                                  [
+                                                                      77.5888362347127,
+                                                                      12.972737291666666
+                                                                  ],
+                                                                  [
+                                                                      77.588860353627169,
+                                                                      12.972531536292477
+                                                                  ],
+                                                                  [
+                                                                      77.589024464826991,
+                                                                      12.972384279562657
+                                                                  ],
+                                                                  [
+                                                                      77.589404368140436,
+                                                                      12.97234234618815
+                                                                  ],
+                                                                  [
+                                                                      77.589607872770429,
+                                                                      12.972495203859644
+                                                                  ],
+                                                                  [
+                                                                      77.589621311515316,
+                                                                      12.972626201908833
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P023",
+                                            "survey_no":  "112/2A",
+                                            "owner_id":  "OWN022",
+                                            "owner_name":  "Naveen Gupta",
+                                            "area_acres":  2.13,
+                                            "land_use":  "Residential",
+                                            "tax_status":  "Due",
+                                            "registration_status":  "Pending",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Pending",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.590958676651852,
+                                                                      12.972582536810012
+                                                                  ],
+                                                                  [
+                                                                      77.590755064667192,
+                                                                      12.972767666799797
+                                                                  ],
+                                                                  [
+                                                                      77.590391755458057,
+                                                                      12.972742237304816
+                                                                  ],
+                                                                  [
+                                                                      77.590124042017862,
+                                                                      12.972620824911614
+                                                                  ],
+                                                                  [
+                                                                      77.590093477528811,
+                                                                      12.972406283213539
+                                                                  ],
+                                                                  [
+                                                                      77.590322266038484,
+                                                                      12.972247002165741
+                                                                  ],
+                                                                  [
+                                                                      77.590721612028247,
+                                                                      12.972290133422659
+                                                                  ],
+                                                                  [
+                                                                      77.590973127716865,
+                                                                      12.972425630942119
+                                                                  ],
+                                                                  [
+                                                                      77.590958676651852,
+                                                                      12.972582536810012
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P024",
+                                            "survey_no":  "112/2B",
+                                            "owner_id":  "OWN023",
+                                            "owner_name":  "Divya Nair",
+                                            "area_acres":  1.71,
+                                            "land_use":  "Commercial",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.592290887277684,
+                                                                      12.97270966059256
+                                                                  ],
+                                                                  [
+                                                                      77.591965639200481,
+                                                                      12.972840863750037
+                                                                  ],
+                                                                  [
+                                                                      77.591594490709767,
+                                                                      12.972851263839821
+                                                                  ],
+                                                                  [
+                                                                      77.591315663162348,
+                                                                      12.972684207212202
+                                                                  ],
+                                                                  [
+                                                                      77.591335286462751,
+                                                                      12.972430552473355
+                                                                  ],
+                                                                  [
+                                                                      77.5916731797879,
+                                                                      12.972334147277842
+                                                                  ],
+                                                                  [
+                                                                      77.592087793139811,
+                                                                      12.972345882817912
+                                                                  ],
+                                                                  [
+                                                                      77.592343061622941,
+                                                                      12.972526890907337
+                                                                  ],
+                                                                  [
+                                                                      77.592290887277684,
+                                                                      12.97270966059256
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P025",
+                                            "survey_no":  "113/1A",
+                                            "owner_id":  "OWN024",
+                                            "owner_name":  "Ramesh Naidu",
+                                            "area_acres":  2.32,
+                                            "land_use":  "Agricultural",
+                                            "tax_status":  "Due",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Conflict",
+                                            "conflict_count":  1
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.593303733971936,
+                                                                      12.972620936385999
+                                                                  ],
+                                                                  [
+                                                                      77.593090962632729,
+                                                                      12.972748019495674
+                                                                  ],
+                                                                  [
+                                                                      77.592771849295374,
+                                                                      12.972731404581001
+                                                                  ],
+                                                                  [
+                                                                      77.592566075589019,
+                                                                      12.972562954296858
+                                                                  ],
+                                                                  [
+                                                                      77.592704758637637,
+                                                                      12.972375832604527
+                                                                  ],
+                                                                  [
+                                                                      77.59293007766712,
+                                                                      12.972272156715491
+                                                                  ],
+                                                                  [
+                                                                      77.593280255397815,
+                                                                      12.972311252889249
+                                                                  ],
+                                                                  [
+                                                                      77.593367310086677,
+                                                                      12.972495871346394
+                                                                  ],
+                                                                  [
+                                                                      77.593303733971936,
+                                                                      12.972620936385999
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P026",
+                                            "survey_no":  "113/1B",
+                                            "owner_id":  "OWN025",
+                                            "owner_name":  "Pooja Verma",
+                                            "area_acres":  1.44,
+                                            "land_use":  "Mixed-use",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Pending",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Pending",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.5886189,
+                                                                      12.97340
+                                                                  ],
+                                                                  [
+                                                                      77.588506893250041425,
+                                                                      12.973608452123546409
+                                                                  ],
+                                                                  [
+                                                                      77.5881708959018915709,
+                                                                      12.973635204428254597
+                                                                  ],
+                                                                  [
+                                                                      77.587884016950686446,
+                                                                      12.973555293351599193
+                                                                  ],
+                                                                  [
+                                                                      77.587774468771230351,
+                                                                      12.9733514508636606207
+                                                                  ],
+                                                                  [
+                                                                      77.587918976820613562,
+                                                                      12.973164516119797191
+                                                                  ],
+                                                                  [
+                                                                      77.5882941106745203242,
+                                                                      12.973149838751112329
+                                                                  ],
+                                                                  [
+                                                                      77.588571833448541648,
+                                                                      12.973245709358050696
+                                                                  ],
+                                                                  [
+                                                                      77.5886189,
+                                                                      12.97340
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P027",
+                                            "survey_no":  "114/3A",
+                                            "owner_id":  "OWN002",
+                                            "owner_name":  "Meera Nair",
+                                            "area_acres":  2.91,
+                                            "land_use":  "Agricultural",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "Boundary dispute",
+                                            "verification_status":  "Disputed",
+                                            "conflict_count":  2
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.58996582662509,
+                                                                      12.973517292019082
+                                                                  ],
+                                                                  [
+                                                                      77.589721839595569,
+                                                                      12.973691341227427
+                                                                  ],
+                                                                  [
+                                                                      77.589390616624186,
+                                                                      12.973754772358269
+                                                                  ],
+                                                                  [
+                                                                      77.589075505807983,
+                                                                      12.97363275
+                                                                  ],
+                                                                  [
+                                                                      77.588997088651951,
+                                                                      12.973383809709146
+                                                                  ],
+                                                                  [
+                                                                      77.58926568375044,
+                                                                      12.973241707490406
+                                                                  ],
+                                                                  [
+                                                                      77.589644547202923,
+                                                                      12.973193507871594
+                                                                  ],
+                                                                  [
+                                                                      77.5899436708219,
+                                                                      12.973332453087584
+                                                                  ],
+                                                                  [
+                                                                      77.58996582662509,
+                                                                      12.973517292019082
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P028",
+                                            "survey_no":  "114/3B",
+                                            "owner_id":  "OWN004",
+                                            "owner_name":  "Lakshmi Devi",
+                                            "area_acres":  1.83,
+                                            "land_use":  "Residential",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Verified",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.59110139943391,
+                                                                      12.973452013207554
+                                                                  ],
+                                                                  [
+                                                                      77.590902858150841,
+                                                                      12.973607492684321
+                                                                  ],
+                                                                  [
+                                                                      77.590503825424165,
+                                                                      12.9736396216183
+                                                                  ],
+                                                                  [
+                                                                      77.590169434312145,
+                                                                      12.973507288255698
+                                                                  ],
+                                                                  [
+                                                                      77.590247877772768,
+                                                                      12.973304755836079
+                                                                  ],
+                                                                  [
+                                                                      77.590473228648534,
+                                                                      12.973170091059826
+                                                                  ],
+                                                                  [
+                                                                      77.590921301397742,
+                                                                      12.973155078622383
+                                                                  ],
+                                                                  [
+                                                                      77.591118163007522,
+                                                                      12.973321050350249
+                                                                  ],
+                                                                  [
+                                                                      77.59110139943391,
+                                                                      12.973452013207554
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P029",
+                                            "survey_no":  "115/1A",
+                                            "owner_id":  "OWN006",
+                                            "owner_name":  "Farah Khan",
+                                            "area_acres":  2.46,
+                                            "land_use":  "Commercial",
+                                            "tax_status":  "Paid",
+                                            "registration_status":  "Verified",
+                                            "dispute_status":  "Ownership dispute",
+                                            "verification_status":  "Disputed",
+                                            "conflict_count":  2
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.592311026240353,
+                                                                      12.973572638114957
+                                                                  ],
+                                                                  [
+                                                                      77.5921062141234,
+                                                                      12.973741869309633
+                                                                  ],
+                                                                  [
+                                                                      77.59180382726808,
+                                                                      12.973690723042971
+                                                                  ],
+                                                                  [
+                                                                      77.591599206443448,
+                                                                      12.973551125922691
+                                                                  ],
+                                                                  [
+                                                                      77.591611418631032,
+                                                                      12.973336003938224
+                                                                  ],
+                                                                  [
+                                                                      77.591832915765664,
+                                                                      12.973194224262093
+                                                                  ],
+                                                                  [
+                                                                      77.592162605721015,
+                                                                      12.973265510002248
+                                                                  ],
+                                                                  [
+                                                                      77.592351047185986,
+                                                                      12.973417932254923
+                                                                  ],
+                                                                  [
+                                                                      77.592311026240353,
+                                                                      12.973572638114957
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "parcel_id":  "P030",
+                                            "survey_no":  "115/1B",
+                                            "owner_id":  "OWN009",
+                                            "owner_name":  "Kiran Das",
+                                            "area_acres":  1.68,
+                                            "land_use":  "Mixed-use",
+                                            "tax_status":  "Due",
+                                            "registration_status":  "Pending",
+                                            "dispute_status":  "None",
+                                            "verification_status":  "Pending",
+                                            "conflict_count":  0
+                                        },
+                         "geometry":  {
+                                          "type":  "Polygon",
+                                          "coordinates":  [
+                                                              [
+                                                                  [
+                                                                      77.593631763846943,
+                                                                      12.973543658298212
+                                                                  ],
+                                                                  [
+                                                                      77.593330502981132,
+                                                                      12.973650336297379
+                                                                  ],
+                                                                  [
+                                                                      77.593011346021768,
+                                                                      12.97363378859546
+                                                                  ],
+                                                                  [
+                                                                      77.592802478757321,
+                                                                      12.97344779072907
+                                                                  ],
+                                                                  [
+                                                                      77.59286407946999,
+                                                                      12.973197447374618
+                                                                  ],
+                                                                  [
+                                                                      77.593170002419583,
+                                                                      12.973126223444662
+                                                                  ],
+                                                                  [
+                                                                      77.5935224087363,
+                                                                      12.973167888533736
+                                                                  ],
+                                                                  [
+                                                                      77.593708668443185,
+                                                                      12.973366028249437
+                                                                  ],
+                                                                  [
+                                                                      77.593631763846943,
+                                                                      12.973543658298212
+                                                                  ]
+                                                              ]
+                                                          ]
+                                      }
+                     }
+                 ]
+}

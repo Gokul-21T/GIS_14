@@ -1,0 +1,1054 @@
+{
+    "P001":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-001",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P001",
+                 "survey_no":  "101/1A",
+                 "owner":  {
+                               "name":  "Arun Kumar",
+                               "owner_id":  "OWN001"
+                           },
+                 "land":  {
+                              "area_acres":  2.41,
+                              "land_use":  "Residential"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P002":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-002",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P002",
+                 "survey_no":  "101/1B",
+                 "owner":  {
+                               "name":  "Meera Nair",
+                               "owner_id":  "OWN002"
+                           },
+                 "land":  {
+                              "area_acres":  1.82,
+                              "land_use":  "Agricultural"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P003":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-003",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P003",
+                 "survey_no":  "102/2A",
+                 "owner":  {
+                               "name":  "Ravi Shetty",
+                               "owner_id":  "OWN003"
+                           },
+                 "land":  {
+                              "area_acres":  3.15,
+                              "land_use":  "Commercial"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P004":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-004",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P004",
+                 "survey_no":  "102/2B",
+                 "owner":  {
+                               "name":  "Lakshmi Devi",
+                               "owner_id":  "OWN004"
+                           },
+                 "land":  {
+                              "area_acres":  1.34,
+                              "land_use":  "Mixed-use"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P005":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-005",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P005",
+                 "survey_no":  "103/1A",
+                 "owner":  {
+                               "name":  "Sanjay Rao",
+                               "owner_id":  "OWN005"
+                           },
+                 "land":  {
+                              "area_acres":  2.76,
+                              "land_use":  "Residential"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P006":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-006",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P006",
+                 "survey_no":  "103/1B",
+                 "owner":  {
+                               "name":  "Farah Khan",
+                               "owner_id":  "OWN006"
+                           },
+                 "land":  {
+                              "area_acres":  1.95,
+                              "land_use":  "Agricultural"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P007":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-007",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P007",
+                 "survey_no":  "104/3A",
+                 "owner":  {
+                               "name":  "Vijay Patel",
+                               "owner_id":  "OWN007"
+                           },
+                 "land":  {
+                              "area_acres":  2.28,
+                              "land_use":  "Residential"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P008":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-008",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+                                                        "Area conflict: expected area 2.50 acres; recorded area 2.10 acres."
+                                                    ],
+                                      "status":  "Conflict"
+                                  },
+                 "parcel_id":  "P008",
+                 "survey_no":  "104/3B",
+                 "owner":  {
+                               "name":  "Nisha Iyer",
+                               "owner_id":  "OWN008"
+                           },
+                 "land":  {
+                              "area_acres":  2.1,
+                              "land_use":  "Agricultural"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P009":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-009",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P009",
+                 "survey_no":  "105/1A",
+                 "owner":  {
+                               "name":  "Kiran Das",
+                               "owner_id":  "OWN009"
+                           },
+                 "land":  {
+                              "area_acres":  1.67,
+                              "land_use":  "Commercial"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P010":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-010",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P010",
+                 "survey_no":  "105/1B",
+                 "owner":  {
+                               "name":  "Priya Menon",
+                               "owner_id":  "OWN010"
+                           },
+                 "land":  {
+                              "area_acres":  2.54,
+                              "land_use":  "Mixed-use"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P011":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-011",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P011",
+                 "survey_no":  "106/2A",
+                 "owner":  {
+                               "name":  "Gopal Reddy",
+                               "owner_id":  "OWN011"
+                           },
+                 "land":  {
+                              "area_acres":  3.02,
+                              "land_use":  "Agricultural"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P012":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-012",
+                                      "status":  "Pending"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2025,
+                             "status":  "Due"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Pending"
+                                  },
+                 "parcel_id":  "P012",
+                 "survey_no":  "106/2B",
+                 "owner":  {
+                               "name":  "Anita Shah",
+                               "owner_id":  "OWN012"
+                           },
+                 "land":  {
+                              "area_acres":  1.48,
+                              "land_use":  "Residential"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P013":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-013",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P013",
+                 "survey_no":  "107/1A",
+                 "owner":  {
+                               "name":  "Dev Malhotra",
+                               "owner_id":  "OWN013"
+                           },
+                 "land":  {
+                              "area_acres":  2.2,
+                              "land_use":  "Commercial"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P014":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-014",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+                                                        "Owner mismatch: registration owner Arun Kumar; tax record owner Arun Kumar S."
+                                                    ],
+                                      "status":  "Conflict"
+                                  },
+                 "parcel_id":  "P014",
+                 "survey_no":  "124/3B",
+                 "owner":  {
+                               "name":  "Arun Kumar",
+                               "owner_id":  "OWN001"
+                           },
+                 "land":  {
+                              "area_acres":  2.41,
+                              "land_use":  "Residential"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P015":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-015",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P015",
+                 "survey_no":  "108/2A",
+                 "owner":  {
+                               "name":  "Suresh Babu",
+                               "owner_id":  "OWN014"
+                           },
+                 "land":  {
+                              "area_acres":  1.76,
+                              "land_use":  "Mixed-use"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P016":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-016",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P016",
+                 "survey_no":  "108/2B",
+                 "owner":  {
+                               "name":  "Kavya Rao",
+                               "owner_id":  "OWN015"
+                           },
+                 "land":  {
+                              "area_acres":  2.88,
+                              "land_use":  "Agricultural"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P017":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-017",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P017",
+                 "survey_no":  "109/1A",
+                 "owner":  {
+                               "name":  "Imran Ali",
+                               "owner_id":  "OWN016"
+                           },
+                 "land":  {
+                              "area_acres":  1.92,
+                              "land_use":  "Residential"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P018":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-018",
+                                      "status":  "Pending"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2025,
+                             "status":  "Due"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Pending"
+                                  },
+                 "parcel_id":  "P018",
+                 "survey_no":  "109/1B",
+                 "owner":  {
+                               "name":  "Renu Singh",
+                               "owner_id":  "OWN017"
+                           },
+                 "land":  {
+                              "area_acres":  2.07,
+                              "land_use":  "Commercial"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P019":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-019",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+                                                        "Land-use conflict: survey record Agricultural; registration record Commercial."
+                                                    ],
+                                      "status":  "Conflict"
+                                  },
+                 "parcel_id":  "P019",
+                 "survey_no":  "110/3A",
+                 "owner":  {
+                               "name":  "Harish Kumar",
+                               "owner_id":  "OWN018"
+                           },
+                 "land":  {
+                              "area_acres":  3.4,
+                              "land_use":  "Commercial"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P020":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-020",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P020",
+                 "survey_no":  "110/3B",
+                 "owner":  {
+                               "name":  "Shalini Bose",
+                               "owner_id":  "OWN019"
+                           },
+                 "land":  {
+                              "area_acres":  1.59,
+                              "land_use":  "Residential"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P021":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-021",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P021",
+                 "survey_no":  "111/1A",
+                 "owner":  {
+                               "name":  "Manoj Jain",
+                               "owner_id":  "OWN020"
+                           },
+                 "land":  {
+                              "area_acres":  2.65,
+                              "land_use":  "Mixed-use"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P022":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-022",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P022",
+                 "survey_no":  "111/1B",
+                 "owner":  {
+                               "name":  "Asha Thomas",
+                               "owner_id":  "OWN021"
+                           },
+                 "land":  {
+                              "area_acres":  1.88,
+                              "land_use":  "Agricultural"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P023":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-023",
+                                      "status":  "Pending"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2025,
+                             "status":  "Due"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Pending"
+                                  },
+                 "parcel_id":  "P023",
+                 "survey_no":  "112/2A",
+                 "owner":  {
+                               "name":  "Naveen Gupta",
+                               "owner_id":  "OWN022"
+                           },
+                 "land":  {
+                              "area_acres":  2.13,
+                              "land_use":  "Residential"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P024":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-024",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P024",
+                 "survey_no":  "112/2B",
+                 "owner":  {
+                               "name":  "Divya Nair",
+                               "owner_id":  "OWN023"
+                           },
+                 "land":  {
+                              "area_acres":  1.71,
+                              "land_use":  "Commercial"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P025":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-025",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2024,
+                             "status":  "Due"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+                                                        "Tax status mismatch: municipal ledger shows Paid; revenue record shows Due."
+                                                    ],
+                                      "status":  "Conflict"
+                                  },
+                 "parcel_id":  "P025",
+                 "survey_no":  "113/1A",
+                 "owner":  {
+                               "name":  "Ramesh Naidu",
+                               "owner_id":  "OWN024"
+                           },
+                 "land":  {
+                              "area_acres":  2.32,
+                              "land_use":  "Agricultural"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P026":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-026",
+                                      "status":  "Pending"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2025,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Pending"
+                                  },
+                 "parcel_id":  "P026",
+                 "survey_no":  "113/1B",
+                 "owner":  {
+                               "name":  "Pooja Verma",
+                               "owner_id":  "OWN025"
+                           },
+                 "land":  {
+                              "area_acres":  1.44,
+                              "land_use":  "Mixed-use"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P027":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-027",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+                                                        "Boundary overlap reported with adjacent parcel.",
+                                                        "Active boundary dispute under review."
+                                                    ],
+                                      "status":  "Disputed"
+                                  },
+                 "parcel_id":  "P027",
+                 "survey_no":  "114/3A",
+                 "owner":  {
+                               "name":  "Meera Nair",
+                               "owner_id":  "OWN002"
+                           },
+                 "land":  {
+                              "area_acres":  2.91,
+                              "land_use":  "Agricultural"
+                          },
+                 "dispute":  {
+                                 "status":  "Boundary dispute",
+                                 "type":  "Boundary dispute"
+                             }
+             },
+    "P028":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-028",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Verified"
+                                  },
+                 "parcel_id":  "P028",
+                 "survey_no":  "114/3B",
+                 "owner":  {
+                               "name":  "Lakshmi Devi",
+                               "owner_id":  "OWN004"
+                           },
+                 "land":  {
+                              "area_acres":  1.83,
+                              "land_use":  "Residential"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             },
+    "P029":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-029",
+                                      "status":  "Verified"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2026,
+                             "status":  "Paid"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+                                                        "Ownership claim is pending adjudication.",
+                                                        "Registration is flagged for review."
+                                                    ],
+                                      "status":  "Disputed"
+                                  },
+                 "parcel_id":  "P029",
+                 "survey_no":  "115/1A",
+                 "owner":  {
+                               "name":  "Farah Khan",
+                               "owner_id":  "OWN006"
+                           },
+                 "land":  {
+                              "area_acres":  2.46,
+                              "land_use":  "Commercial"
+                          },
+                 "dispute":  {
+                                 "status":  "Ownership dispute",
+                                 "type":  "Ownership dispute"
+                             }
+             },
+    "P030":  {
+                 "location":  {
+                                  "district":  "Demo District",
+                                  "taluk":  "Demo Taluk",
+                                  "village":  "Demo Village"
+                              },
+                 "registration":  {
+                                      "registration_number":  "REG-2026-030",
+                                      "status":  "Pending"
+                                  },
+                 "tax":  {
+                             "last_payment_year":  2025,
+                             "status":  "Due"
+                         },
+                 "verification":  {
+                                      "conflicts":  [
+
+                                                    ],
+                                      "status":  "Pending"
+                                  },
+                 "parcel_id":  "P030",
+                 "survey_no":  "115/1B",
+                 "owner":  {
+                               "name":  "Kiran Das",
+                               "owner_id":  "OWN009"
+                           },
+                 "land":  {
+                              "area_acres":  1.68,
+                              "land_use":  "Mixed-use"
+                          },
+                 "dispute":  {
+                                 "status":  "None",
+                                 "type":  null
+                             }
+             }
+}
